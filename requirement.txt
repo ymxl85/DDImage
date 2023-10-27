@@ -1,0 +1,6 @@
+Python version 3.7.3, 
+scikit-learn version 0.22.1, 
+Tensorflow version 2.0.0,
+Tensorflow_hub version 0.14.0,
+opencv-python version 4.8.0.76,
+scikit-image version 0.18.1
