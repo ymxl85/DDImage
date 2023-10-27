@@ -16,4 +16,4 @@ Please refer to for details.
 
 Please refer to for details
 
-And please refer to for istallation requirements.
+And please refer to [requirement.txt](requirement.txt) for istallation requirements.
