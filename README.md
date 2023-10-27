@@ -11,8 +11,8 @@ Please refer to for details.
 
 ## Results
 
-*Results for experimental evaluation
-*Results for extended usage
+* Results for experimental evaluation
+* Results for extended usage
 
 Please refer to for details
 
