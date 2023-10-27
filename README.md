@@ -6,12 +6,14 @@ This repository contains data and codes for the paper "DDImage: an image reducti
 
 * Code for DDImage
 * Code for experimental analysis
+* 
 Please refer to for details.
 
 ## Results
 
 *Results for experimental evaluation
 *Results for extended usage
+
 Please refer to for details
 
 And please refer to for istallation requirements.
