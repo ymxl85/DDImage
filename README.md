@@ -2,13 +2,13 @@
 
 This repository contains data and codes for the paper "DDImage: an image reduction based approach for automatically explaining black-box classifiers"
 
-##Code 
+## Code 
 
 * Code for DDImage
 * Code for experimental analysis
 Please refer to for details.
 
-##Results
+## Results
 
 *Results for experimental evaluation
 *Results for extended usage
