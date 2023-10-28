@@ -11,7 +11,6 @@ This repository contains data and code for the paper "DDImage: an image reductio
 ## Results
 
 * Results for experimental evaluation
-* Results for extended usage
 
 
 And please refer to [requirement.txt](requirement.txt) for istallation requirements.
