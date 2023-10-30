@@ -5,7 +5,7 @@ from skimage.metrics import structural_similarity as compare_ssim
 from skimage.metrics import peak_signal_noise_ratio as compare_psnr
 import numpy as np
 
-# cosin相似度（余弦相似度）
+# cosin similarity
 def get_thumbnail(image, size=(1200, 750), greyscale=False):
     # image = image.resize(size, Image.ANTIALIAS)
     if greyscale:
