@@ -30,8 +30,8 @@ def image_similarity_vectors_via_numpy(image1, image2):
     res = dot(a / a_norm, b / b_norm)
     return res
 def save_data(name,sim):
-    f = open('/home/zxd/Desktop/explanation/Data/Similarity/sedc_resnet_roaming_shear_similarity.txt', mode='a')  # 打开文件，若文件不存在系统自动创建。
-    f.writelines([name, ' ',(str)(sim)])  # writelines()函数 会将列表中的字符串写入文件中，但不会自动换行，如果需要换行，手动添加换行符
+    f = open('/home/zxd/Desktop/explanation/Data/Similarity/sedc_resnet_roaming_shear_similarity.txt', mode='a')  # 
+    f.writelines([name, ' ',(str)(sim)])  # 
     f.write('\n')  # write 写入
     f.close()
 
@@ -41,15 +41,15 @@ if __name__ == '__main__':
     image1 = "/home/zxd/Desktop/explanation/R-Explanation/SEDC/ResNet-Roaming-All-Shear/"
     image2 = "/home/zxd/Desktop/explanation/R-Explanation/SEDC/ResNet-Roaming-Shear/"
     a = os.listdir(input_dir)
-    count = 0  # 初始化计数器
-    # / home / tcj / PycharmProjects / new_dd_mothod / result / output_dd_mobilivent_res_xuanzhuan_lesser_panada / sufferi1180.JPEG
+    count = 0  # 
+
     for i in a:
         if not i.find("counter"):
             continue
         image3 = image1 +"/"+ i
         if not os.path.exists(image3):
             count += 1
-            continue  # 如果image3不存在，跳过后续执行
+            continue  
         image4 = image2 +"/"+ i
         print(image4)
         print(image3)
