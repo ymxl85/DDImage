@@ -17,4 +17,4 @@ Results for the five research questions
 * A record reports the name of the input image and the time spent on producing the relevant explanation.
 
 # RQ5
-*5-segmentation reports the size and time information related of a newly configured DDImage (the kernel_size=4 is applied with quickshift)
+*5-segmentation reports the size and time information related of a newly configured DDImage (the kernel_size=3 is applied with quickshift)
